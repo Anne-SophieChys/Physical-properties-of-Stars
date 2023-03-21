@@ -12,6 +12,8 @@ The following packages were used in this project:
 * rgl
 * fmsb
 * dplyr  
+* grid  
+* cowplot
 
 ### Data Source
 The dataset used in this project can be found on Kaggle and GitHub under the name vincentarelbundock.
